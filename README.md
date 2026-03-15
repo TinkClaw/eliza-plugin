@@ -13,13 +13,13 @@ TinkClaw signal intelligence plugin for [ElizaOS](https://github.com/elizaOS/eli
 ## Installation
 
 ```bash
-npm install @tinkclaw/eliza-plugin
+npm install github:TinkClaw/eliza-plugin
 ```
 
 ## Usage
 
 ```typescript
-import { tinkclawPlugin } from "@tinkclaw/eliza-plugin";
+import { tinkclawPlugin } from "tinkclaw-eliza-plugin";
 
 const agent = new Agent({
   plugins: [tinkclawPlugin],
