@@ -9,6 +9,7 @@
     "dev": "tsc --watch"
   },
   "keywords": ["elizaos", "plugin", "trading", "signals", "ai-agent", "tinkclaw", "x402"],
+  "files": ["dist", "README.md"],
   "license": "MIT",
   "repository": {
     "type": "git",

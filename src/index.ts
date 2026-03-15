@@ -1,7 +1,7 @@
 /**
  * @tinkclaw/eliza-plugin — TinkClaw Signal Intelligence for ElizaOS
  *
- * Gives any ElizaOS agent access to TinkClaw's 33-layer AI signal engine.
+ * Gives any ElizaOS agent access to TinkClaw's AI signal engine.
  * Supports both API key auth and x402 pay-per-request (no signup needed).
  *
  * Usage:
